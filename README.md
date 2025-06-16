@@ -20,7 +20,7 @@ GitHub: [https://github.com/Midevery/Xperimall-SE.git](https://github.com/Mideve
 
 ```bash
 git clone https://github.com/Midevery/Xperimall-SE.git
-cd xperimall
+cd xperimall-se
 ```
 
 ---
