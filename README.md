@@ -12,14 +12,14 @@ Proyek ini terdiri dari dua bagian utama:
 
 ## 🔗 Repository
 
-GitHub: [https://github.com/fl4me04/xperimall.git](https://github.com/fl4me04/xperimall.git)
+GitHub: [https://github.com/Midevery/Xperimall-SE.git](https://github.com/Midevery/Xperimall-SE.git)
 
 ---
 
 ## 📦 Langkah Awal
 
 ```bash
-git clone https://github.com/fl4me04/xperimall.git
+git clone https://github.com/Midevery/Xperimall-SE.git
 cd xperimall
 ```
 
